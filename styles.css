@@ -1,0 +1,11 @@
+#navbar{
+ position: fixed;
+ width: 100%;
+ height: 1.95rem;
+ top: 0;
+ background-color: red;
+
+ }
+@media screen(min, max){
+  display: flex;
+}
